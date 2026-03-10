@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "雪解け - Yukidoke (feat. isui)",
+  "base_artist": "Islet",
+  "createdAt": "2026-03-10T22:33:24.267728Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雪解け - Yukidoke (feat. isui)",
+      "artist": "Islet",
+      "has_synced": true,
+      "path": "select/01_雪解け_-_Yukidoke_(feat._isui)_Islet.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雪解け (feat. 倚水)",
+      "artist": "Islet",
+      "has_synced": false,
+      "path": "select/pl_01_雪解け_(feat._倚水)_Islet.txt"
+    }
+  ]
+}
